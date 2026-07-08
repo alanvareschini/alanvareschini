@@ -42,19 +42,23 @@ I'm a **Full Stack Developer in progress**, passionate about building modern, fu
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alanvareschini&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Alan Vareschini GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanvareschini&theme=tokyonight" alt="GitHub Profile Summary" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanvareschini&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<br><br>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alanvareschini&theme=tokyonight" alt="GitHub Stats" />
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanvareschini&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=alanvareschini&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanvareschini&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -73,12 +77,12 @@ I'm a **Full Stack Developer in progress**, passionate about building modern, fu
 
 ## 📌 Current Focus
 
-```txt
+<pre>
 Building stronger frontend experiences
 Improving backend structure and APIs
 Creating more professional full stack projects
 Leveling up as a developer every day
-```
+</pre>
 
 ---
 
