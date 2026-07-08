@@ -8,9 +8,9 @@
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/alanvareschini?style=for-the-badge&color=7A5CFA)](https://github.com/alanvareschini)
-[![GitHub stars](https://img.shields.io/github/stars/alanvareschini?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7A5CFA)](https://github.com/alanvareschini)
-[![Profile views](https://komarev.com/ghpvc/?username=alanvareschini&style=for-the-badge&color=7A5CFA)](https://github.com/alanvareschini)
+[![GitHub followers](https://img.shields.io/github/followers/alanvareschini?style=for-the-badge\&color=7A5CFA)](https://github.com/alanvareschini)
+[![GitHub stars](https://img.shields.io/github/stars/alanvareschini?affiliations=OWNER%2CCOLLABORATOR\&style=for-the-badge\&color=7A5CFA)](https://github.com/alanvareschini)
+[![Profile views](https://komarev.com/ghpvc/?username=alanvareschini\&style=for-the-badge\&color=7A5CFA)](https://github.com/alanvareschini)
 
 </div>
 
@@ -20,11 +20,11 @@
 
 I'm a **Full Stack Developer in progress**, passionate about building modern, functional and visually strong web applications.
 
-- 🎓 Software Engineering student
-- 💻 Focused on **Full Stack Development**
-- ⚡ Working with **React, Next.js, JavaScript, TypeScript, PHP and MySQL**
-- 🎨 Interested in **modern UI, dashboards, admin panels and complete systems**
-- 🛠️ Always improving my coding, design and architecture skills
+* 🎓 Software Engineering student
+* 💻 Focused on **Full Stack Development**
+* ⚡ Working with **React, Next.js, JavaScript, TypeScript, PHP and MySQL**
+* 🎨 Interested in **modern UI, dashboards, admin panels and complete systems**
+* 🛠️ Always improving my coding, design and architecture skills
 
 ---
 
@@ -32,7 +32,7 @@ I'm a **Full Stack Developer in progress**, passionate about building modern, fu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,php,nodejs,mysql,git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,php,nodejs,mysql,git,github,docker,vscode" alt="Tech Stack" />
 
 </div>
 
@@ -42,8 +42,9 @@ I'm a **Full Stack Developer in progress**, passionate about building modern, fu
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alanvareschini&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanvareschini&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alanvareschini&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Alan Vareschini GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanvareschini&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -53,7 +54,7 @@ I'm a **Full Stack Developer in progress**, passionate about building modern, fu
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=alanvareschini&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=alanvareschini&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -61,12 +62,12 @@ I'm a **Full Stack Developer in progress**, passionate about building modern, fu
 
 ## 🏆 Highlights
 
-- 📈 Interactive dashboards
-- 🛒 Sales and management systems
-- 🌐 Full web applications
-- 🔐 Authentication and backend integrations
-- 📊 Admin panels and reports
-- 🎯 Projects focused on performance and user experience
+* 📈 Interactive dashboards
+* 🛒 Sales and management systems
+* 🌐 Full web applications
+* 🔐 Authentication and backend integrations
+* 📊 Admin panels and reports
+* 🎯 Projects focused on performance and user experience
 
 ---
 
@@ -77,3 +78,12 @@ Building stronger frontend experiences
 Improving backend structure and APIs
 Creating more professional full stack projects
 Leveling up as a developer every day
+```
+
+---
+
+<div align="center">
+
+### 🚀 Always learning. Always building.
+
+</div>
