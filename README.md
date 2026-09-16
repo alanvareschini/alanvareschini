@@ -2,7 +2,7 @@
   <strong>🌐 Idioma</strong><br><br>
   <a href="./README.md"><img src="https://img.shields.io/badge/Portugu%C3%AAs-PT--BR-7A5CFA?style=for-the-badge" alt="Ler em português" /></a>
   &nbsp;
-  <a href="./README.en.md"><img src="https://img.shields.io/badge/English-EN-161B22?style=for-the-badge" alt="Read in English" /></a>
+  <a href="./readme.md"><img src="https://img.shields.io/badge/English-EN-161B22?style=for-the-badge" alt="Read in English" /></a>
 </p>
 
 <div align="center">
