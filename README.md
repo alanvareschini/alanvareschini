@@ -38,53 +38,70 @@ Código, design e evolução constante.
 
 <br>
 
-◈ Olá, eu sou o Alan
+<div align="center">
 
-Sou estudante de Engenharia de Software e desenvolvedor Full Stack em formação. Gosto de transformar ideias em aplicações web que combinam interfaces bem cuidadas, funcionalidades úteis e uma estrutura sólida por trás de cada interação.
+<img src="https://img.shields.io/badge/Sobre%20mim-161B22?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Sobre mim" />
 
-Meu foco está em conectar frontend, backend e experiência do usuário — da primeira tela às regras de negócio.
+<h2>Entre a interface e a lógica, eu construo.</h2>
 
-🎓 Estudando Engenharia de Software.
+<p>Sou <strong>Alan Vareschini</strong>, estudante de Engenharia de Software<br>e desenvolvedor <strong>Full Stack em formação</strong>.</p>
 
-⚡ Desenvolvendo com React, Next.js, JavaScript, TypeScript, PHP e MySQL.
+<p>Exploro a conexão entre design, código e experiência do usuário<br>para transformar ideias em aplicações úteis e bem cuidadas.</p>
 
-🎨 Explorando interfaces modernas, dashboards e painéis administrativos.
+<br>
 
-🧩 Aprimorando minhas habilidades em código, design e arquitetura.
+</div>
 
-⌘ O que gosto de construir
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/01-INTERFACES-7A5CFA?style=for-the-badge&labelColor=161B22" alt="01 · INTERFACES" />
+      <h3>Experiências que fazem sentido</h3>
+      <p>Interfaces modernas, navegação intuitiva<br>e atenção aos detalhes.</p>
+      <img height="36" src="https://skillicons.dev/icons?i=react,nextjs,ts&theme=dark" alt="React, Next.js e TypeScript" />
+      <br><br>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/02-BACKEND-0891B2?style=for-the-badge&labelColor=161B22" alt="02 · BACKEND" />
+      <h3>Estrutura por trás de cada interação</h3>
+      <p>APIs, autenticação e regras de negócio<br>conectadas aos dados.</p>
+      <img height="36" src="https://skillicons.dev/icons?i=php,nodejs,mysql&theme=dark" alt="PHP, Node.js e MySQL" />
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/03-DASHBOARDS-0891B2?style=for-the-badge&labelColor=161B22" alt="03 · DASHBOARDS" />
+      <h3>Informação que orienta decisões</h3>
+      <p>Indicadores, relatórios e painéis<br>para visualizar o que importa.</p>
+      <p><kbd>INDICADORES</kbd> &nbsp; <kbd>RELATÓRIOS</kbd></p>
+      <br><br>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/04-SISTEMAS-7A5CFA?style=for-the-badge&labelColor=161B22" alt="04 · SISTEMAS" />
+      <h3>Do fluxo à aplicação completa</h3>
+      <p>Sistemas de vendas, gestão e administração<br>com foco em quem utiliza.</p>
+      <p><kbd>VENDAS</kbd> &nbsp; <kbd>GESTÃO</kbd></p>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
-Área
+<br>
 
-Meu interesse
+<div align="center">
 
-Interfaces & experiência
+<img src="https://img.shields.io/badge/EM%20EVOLU%C3%87%C3%83O-7A5CFA?style=for-the-badge" alt="EM EVOLUÇÃO" />
 
-Aplicações modernas, navegação intuitiva e atenção aos detalhes visuais.
+<p><strong>Aprofundando frontend · Estruturando APIs · Conectando soluções</strong></p>
 
-Dashboards & dados
+<sub>Aprender com intenção. Construir com cuidado. Evoluir com a prática.</sub>
 
-Indicadores, relatórios e visualizações que ajudam a entender informações.
-
-Sistemas & gestão
-
-Aplicações de vendas, painéis administrativos e fluxos de trabalho.
-
-Backend & integrações
-
-Autenticação, APIs, regras de negócio e integração com bancos de dados.
-
-◎ Meu foco agora
-
-Frontend: criar experiências mais consistentes e bem estruturadas.
-
-Backend: evoluir a organização das aplicações e a construção de APIs.
-
-Projetos: desenvolver soluções Full Stack cada vez mais completas.
-
-Aprendizado: melhorar um pouco a cada projeto, revisão e nova descoberta.
-
-Para mim, evoluir como desenvolvedor é unir estudo, prática e atenção à experiência de quem vai usar o que construo.
+</div>
 
 <br>
 
@@ -112,10 +129,6 @@ Para mim, evoluir como desenvolvedor é unir estudo, prática e atenção à exp
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanvareschini&theme=tokyonight" alt="Resumo da atividade pública de Alan no GitHub" />
-
-<br><br>
-
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alanvareschini&theme=tokyonight" alt="Estatísticas públicas do GitHub" />
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanvareschini&theme=tokyonight" alt="Repositórios por linguagem" />
 
@@ -127,7 +140,11 @@ Para mim, evoluir como desenvolvedor é unir estudo, prática e atenção à exp
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alanvareschini&bg_color=0d1117&color=a78bfa&line=7a5cfa&point=22d3ee&area=true&area_color=7a5cfa&hide_border=true&radius=16" alt="Gráfico de contribuições públicas" />
+<a href="https://github.com/alanvareschini?tab=overview">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanvareschini&theme=tokyonight" alt="Contribuições de Alan Vareschini no último ano" />
+</a>
+
+<p><a href="https://github.com/alanvareschini?tab=overview">Ver contribuições no GitHub ↗</a></p>
 
 <br>
 
